@@ -1,0 +1,6 @@
+mediapipe>=0.10.21,<0.11
+# MediaPipe Tasks uses OpenCV; contrib avoids installing two competing cv2 packages.
+opencv-contrib-python>=4.10,<6
+numpy>=1.26,<3
+Pillow>=10,<12
+certifi>=2024

@@ -1,0 +1,1 @@
+"""MediaPipe Tasks based detectors."""

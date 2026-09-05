@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="640" viewBox="0 0 640 640">
+  <rect x="26" y="26" width="588" height="588" rx="100" fill="#23aa5f" fill-opacity=".93" stroke="white" stroke-opacity=".6" stroke-width="10"/>
+  <circle cx="320" cy="300" r="190" fill="white" fill-opacity=".16" stroke="white" stroke-opacity=".72" stroke-width="8"/>
+  <path d="M265 400h150c30 0 45-20 42-44l-15-125c-2-21-15-35-35-35-18 0-31 15-31 35v73h-31V161c0-22-14-37-34-37s-34 15-34 37v143h-30v-87c0-21-14-35-34-35s-34 14-34 35v122c0 36 27 61 63 61z" fill="white"/>
+  <text x="320" y="570" text-anchor="middle" font-family="Arial, sans-serif" font-size="62" font-weight="bold" fill="white">POSITIVE</text>
+</svg>
